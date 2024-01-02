@@ -35,9 +35,9 @@ Como em muitos servicos RPC, o gRPC utiliza a ideia de definir um servidor e um 
 
 ### Tipos de api com grpc 
 
-1.Unary
-2.Server streaming
-3.client streaming
-4.Bi direction streaming
+    1.Unary
+    2.Server streaming
+    3.client streaming
+    4.Bi direction streaming
 
 [Link de referencia](https://marcoslimadev.medium.com/introdu%C3%A7%C3%A3o-ao-grpc-d0935f5f70cf)
